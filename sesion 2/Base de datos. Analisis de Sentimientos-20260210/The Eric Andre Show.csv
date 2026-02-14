@@ -1,0 +1,59 @@
+temporada,numero,titulo,fecha_estreno,puntuacion,descripcion
+1,1,George Clooney,20 May 2012,8.0,Eric interviews George Clooney and Dolph Lundgren.
+1,2,Russell Brand,27 May 2012,7.9,"Eric interviews Russell Brand, Rick Fox and Kristanna Loken."
+1,3,Tatyana Ali,3 Jun. 2012,8.0,Eric interviews Tatyana Ali and Arnold Schwarzenegger.
+1,4,Brandi Glanville,10 Jun. 2012,8.2,Eric interviews Real Housewife Brandi Glanville and Vice President Joe Biden.
+1,5,Reese Witherspoon,17 Jun. 2012,7.9,Eric interviews Reese Witherspoon and Dr. Ordin.
+1,6,Jack,22 Jul. 2012,8.4,Eric interviews Jack Nicholson and John Kilduff.
+1,7,Sinbad,24 Jun. 2012,8.1,The hosts discuss dirty hotel room sheets with Sinbad and spin the Wheel of Prizes.
+1,8,J-Moe,8 Jul. 2012,8.3,Eric gets caught lip syncing to bad jokes and almost infiltrates Mensa.
+1,9,Evangelos,15 Jul. 2012,8.2,Eric demonstrates pickup artistry and panhandles in a suit and tie.
+1,10,Ryan Phillippe,29 Jul. 2012,8.6,Eric terminates a baby-holding sketch prematurely and has an existential crisis.
+1,11,The Eric Andre New Year's Eve Spooktacular!,12 Dec. 2012,8.1,"To celebrate New Year's Eve, Eric does his talk show live in front of a studio audience."
+2,1,Maria Menounos/Eric Balfour,3 Oct. 2013,8.5,Interviews with Maria Menounos and Eric Balfour; Musical guest Irontom.
+2,2,Krysten Ritter/Dominic Monaghan,10 Oct. 2013,8.3,Interviews with Krysten Ritter and Dominic Monaghan
+2,3,Lou Ferrigno/Downtown Julie Brown,17 Oct. 2013,8.3,Interviews with Lou Ferrigno and Downtown Julie Brown.
+2,4,Jodie Sweetin/Vivica A. Fox,24 Oct. 2013,8.1,"Interviews with ""George Clooney,"" Jodie Sweetin and Vivica A. Fox."
+2,5,James Van Der Beek/Steve-O,31 Oct. 2013,8.6,Interviews with James Van Der Beek and Steve-O; Chef Rory Scovel; Special guest T-Pain.
+2,6,Wink Martindale/Sarah Burns,7 Nov. 2013,7.7,Interviews with Wink Martindale and Sarah Burns.
+2,7,Lance Reddick/Harry Shum Jr.,14 Nov. 2013,8.7,Interviews with Lance Reddick and Harry Shum Jr.; Musical guest Jonwayne.
+2,8,Joey Fatone/Richard Hatch,21 Nov. 2013,7.9,Interviews with Joey Fatone and Richard Hatch; Special guest Eric Kelly.
+2,9,Chance the Rapper/Mel B,5 Dec. 2013,8.9,Interviews with Chance The Rapper and Mel B; Special guest Questlove and musical guest Henry Rollins.
+2,10,"Scott Porter/Brutus ""The Barber"" Beefcake",12 Dec. 2013,8.6,Season finale. You've seen the show. You get it.
+3,1,Seth Rogen; Asa Akira,6 Nov. 2014,8.9,Interviews with Seth Rogen and Asa Akira; Musical guest Exhumed and The Supremes.
+3,2,Lauren Conrad; Reese Witherspoon,13 Nov. 2014,9.3,"Interviews with Lauren Conrad and ""Reese Witherspoon""; Musical guest Hannibal Buress."
+3,3,Ryan Kwanten; Beyonce & Jay-Z,20 Nov. 2014,7.9,"Interviews with Ryan Kwanten and ""Beyonce & Jay Z""; Musical guest Killer Mike and Action Bronson."
+3,4,Jillian Barberie; Victor Ortiz,27 Nov. 2014,8.4,Interviews with Jillian Barberie and Victor Ortiz; Musical guest Mac DeMarco.
+3,5,The Hannibal Buress Show,4 Dec. 2014,8.9,"Following a severe spinal injury, Eric asks Hannibal to host the show. Featuring Nick Cannon and Carmen Electra; Musical guest Lil Jon."
+3,6,Wiz Khalifa; Aubrey Peeples,11 Dec. 2014,8.5,Interviews with Wiz Khalifa and Aubrey Peeples.
+3,7,Naturi Naughton; Ryan Phillippe,18 Dec. 2014,8.2,Interviews with Naturi Naughton (Power (2014)) and Ryan Phillippe (Secuestrada (2014)); musical guest Trash Talk.
+3,8,Jimmy Kimmel; Tyler the Creator,9 Jan. 2015,8.7,Interviews with Jimmy Kimmel and Tyler The Creator; Musical guest HEALTH.
+3,9,Pauly D; Rick Springfield,16 Jan. 2015,9.1,Interview with Pauly D; Special appearance by Rick Springfield; Musical guest Paul Wall.
+3,10,Bird Up!,23 Jan. 2015,9.0,Featuring Stephen Colletti and Chris Rock.
+4,1,T.I.; Abby Lee Miller,6 Aug. 2016,8.6,Interviews with T.I. and Abbey Lee Miller; Musical guest American Authors.
+4,2,Stacey Dash; Jack McBrayer,12 Aug. 2016,9.1,"Interviews with Stacey Dash and Jack McBrayer; Musical guest A$AP Rocky, Danny Brown, Go Dreamer."
+4,3,Howie Mandel; Malaysia Pargo,19 Aug. 2016,8.8,Interviews with Howie Mandel and Malaysia Pargo; Musical guest Flying Lotus.
+4,4,Tichina Arnold; Steve Schirripa,26 Aug. 2016,8.8,Interviews with Tichina Arnold and Steve Schirripa; Musical guest Ariel Pink.
+4,5,Jesse Williams; Jillian Michaels,9 Sep. 2016,8.5,Interviews with Jesse Williams and Jillian Michaels; Musical guest OG Maco and Tim Janus. Special appearance by Penn Jillette.
+4,6,Warren G; Kelly Osbourne,16 Sep. 2016,8.6,Interviews with Warren G and Kelly Osbourne; Special finale guest Jim Norton. Special appearance by Tony Hawk.
+4,7,Raymond Cruz; Amber Rose,23 Sep. 2016,8.3,Interviews with Raymond Cruz and Amber Rose; Musical guest Thundercat.
+4,8,Chris Jericho; Roy Hibbert; Flavor Flav,30 Sep. 2016,8.9,"nterviews with Chris Jericho, Roy Hibbert, and Flavor Flav."
+4,9,Dennis Rodman; Haley Joel Osment,7 Oct. 2016,8.9,Interview with Dennis Rodman and Haley Joel Osment. Musical guests David Alan Grier and Alan Thicke.
+4,10,Jack Black; Jennette McCurdy,14 Oct. 2016,9.2,Interviews with Jack Black and Jennette McCurdy; Musical Guest 311.
+4,11,Eric Andre Does Paris,21 Feb. 2018,7.9,Eric is tired of making America Great Again so he's going to Paris to make France s**tty again.
+5,1,A King Is Born,25 Oct. 2020,8.9,"Eric & Hannibal are back! Eric welcomes Judy Greer and Adam Rippon, and befriends a lost rat on the subway, trying to find its original owner. Also - beer chugging musical guest Anderson Six.Paak!"
+5,2,Hannibal Quits,25 Oct. 2020,8.7,"After only one and a half episodes, Hannibal quits the show and is poorly cloned into a giant mutant version of himself named Blannibal."
+5,3,You Got Served,1 Nov. 2020,8.7,"Eric welcomes Omarion and celebrity psychic Tyler Henry and feeds bugs to musical guest Machine Gun Kelly. Eric transforms into the Bench Mensch, a Jewish bench who helps people move."
+5,4,Lizzo Up,1 Nov. 2020,9.2,Eric welcomes Dermot Mulroney and Diane Guerrero with overweight musical guest Joey Bada$$. Lizzo debuts a surprise spinoff show.
+5,5,Episode #5.5,,,
+5,6,Episode #5.6,8 Nov. 2020,,
+5,7,Episode #5.7,,,
+5,8,Episode #5.8,,,
+6,1,A King Is Born,25 Oct. 2020,8.9,"Eric & Hannibal are back! Eric welcomes Judy Greer and Adam Rippon, and befriends a lost rat on the subway, trying to find its original owner. Also - beer chugging musical guest Anderson Six.Paak!"
+6,2,Hannibal Quits,25 Oct. 2020,8.7,"After only one and a half episodes, Hannibal quits the show and is poorly cloned into a giant mutant version of himself named Blannibal."
+6,3,You Got Served,1 Nov. 2020,8.7,"Eric welcomes Omarion and celebrity psychic Tyler Henry and feeds bugs to musical guest Machine Gun Kelly. Eric transforms into the Bench Mensch, a Jewish bench who helps people move."
+6,4,Lizzo Up,1 Nov. 2020,9.2,Eric welcomes Dermot Mulroney and Diane Guerrero with overweight musical guest Joey Bada$$. Lizzo debuts a surprise spinoff show.
+6,5,Episode #5.5,,,
+6,6,Episode #5.6,8 Nov. 2020,,
+6,7,Episode #5.7,,,
+6,8,Episode #5.8,,,

@@ -1,0 +1,257 @@
+temporada,numero,titulo,fecha_estreno,puntuacion,descripcion
+1,1,Arrival at Kraghammer,14 Mar. 2015,8.1,"Our heroes, Vox Machina, travel to the underground, dwarven city of Kraghammer to find the halfling paladin Lady Kima of Vord."
+1,2,Into the Greyspine Mines,19 Mar. 2015,8.0,Vox Machina vows to put an end to a dark power in the bowels of the earth. The party gears up and ventures into the Greyspine Mines.
+1,3,Strange Bedfellows,26 Mar. 2015,8.0,"Vox Machina finds a camp of enemies and lures them into an illusion. Soon after, Vex and Keyleth delve into a chasm and discover an unlikely ally."
+1,4,Attack on the Duergar Warcamp,2 Apr. 2015,7.9,"Vox Machina forms an alliance with Clarota, an Illithid that also wishes to destroy Kvarn, who is oppressing his people. To continue, the party must bypass the Duergar camp controlled by the mind flayer they saw previously."
+1,5,The Trick About Falling,9 Apr. 2015,7.9,"After their success at the warcamp and their victory over the bulette, Vox Machina takes to the air to make their escape and delve deeper into Khaloor in search of Lady Kima. The quest continues to become more dangerous with every step."
+1,6,Breaching the Emberhold,16 Apr. 2015,8.0,"Vox Machina make their way further downward, far below Kraghammer. Through a cavern of obsidian spires, they travel to where Lady Kima is being held: Emberhold. The group manages to sneak in through a secret entrance to help her escape."
+1,7,The Throne Room,23 Apr. 2015,7.9,"Vox Machina has rescued Kima, and she has made a grudging alliance with Clarota to defeat Kvarn. Tiberius devises a clever plan to confront the dwarven King of Emberhold, but their fight comes at a price."
+1,8,Glass and Bone,30 Apr. 2015,7.9,"After their battle with the Duergar King and Queen, Vox Machina is in bad shape. Tiberius and Kima are stone, Vax and Scanlan are injured, and the Queen has kidnapped Grog. The party rests before they continue to meet a new abomination."
+1,9,Yug'Voril Uncovered,7 May 2015,8.0,"Tracking down Grog, Vox Machina finds a out more about Kvarn. The party then finds their way to a stone island near the city of Yug'voril and takes to the water. The group soon looks for trouble and finds it easily."
+1,10,K'varn Revealed,14 May 2015,8.0,"Drawing closer to the city of Yug'voril, the party decides to have Keyleth use a spell to uncover the truth about what K'varn really is."
+1,11,The Temple Showdown,21 May 2015,8.2,"The party formulates a plan to finally confront and defeat K'varn ""The Mad Beholder""."
+1,12,Dungeons & Dragons Campaign Tips,28 May 2015,7.9,"The main story takes a break this week, as Matt gives tips for new Dungeons and Dragons players, as well as beginning the legend of Vox Moronica."
+1,13,Escape from the Underdark,4 Jun. 2015,8.1,"With K'Varn defeated, a betrayal forces Vox Machina to flee Yug'voril and the Underdark."
+1,14,Shopping and Shipping,11 Jun. 2015,8.0,Vox Machina and the Council of Tal'Dorei decide how best to dispose of the Horn of Orcus. The team then heads off to acquire some magical gear from their old friend (and corporate sponsor) Gilmore.
+1,15,Skyward,25 Jun. 2015,8.1,"In preparation for transport to the holy city of Vasselheim, the Horn of Orcus is sealed within a holy vessel supplied by the followers of Bahamut. Vox Machina defends their Skyship from a small party of Wyvern and Griffin riding pirates."
+1,16,Enter Vasselheim,2 Jul. 2015,8.1,Lady Kima and Vox Machina arrive in Vasselheim. High Bearer Vord asks for assistance in clearing the Platinum Sanctuary's vaults and sealing the Horn of Orcus within.
+1,17,Hubris,23 Jul. 2015,7.8,Pike leaves the group to restore the temple of Sarenrae. Grog faces off against a powerful opponent in the Crucible. The team rushes off to slay a Hydra attacking the walls of Vasselheim.
+1,18,Trial of the Take: Part 1,30 Jul. 2015,7.8,"To avoid judgment for illegally hunting a Hydra near Vasselheim, the team attempts to join the ""Slayer's Take"". The team is split - with Vex, Percy, Scanlan and Grog gaining some new allies as they set off to hunt a vicious white dragon."
+1,19,Trial of the Take: Part 2,6 Aug. 2015,7.9,"Fighting their way past blizzards, frost giants, and up an icy mountain cavern, the trial party comes face-to-face with the monstrous white dragon Rimefang."
+1,20,Trial of the Take: Part 3,13 Aug. 2015,7.8,"While half of Vox Machina hunts a white dragon, the other half is sent to destroy an elusive Rakshasa. Vax, Keyleth and Tiberius are joined by the mysterious Brother Kashaw and the curmudgeonly Thorbir."
+1,21,Trial of the Take: Part 4,20 Aug. 2015,7.9,"With the Rakshasa's identity revealed, the team continues their pursuit, fighting their way through monsters, spirits and a river of acid."
+1,22,Aramente to Pyrah,27 Aug. 2015,8.0,"After successfully completing their trials, Vox Machina is inducted into the Slayer's Take. The team then sets out with an apprehensive Keyleth toward Pyrah, home of the Fire Ashari."
+1,23,The Rematch,10 Sep. 2015,8.1,Grog returns to The Crucible for a rematch with Kern. Scanlan and Vex break Tiberius and Keyleth out of jail. Percy goes shopping.
+1,24,The Feast,17 Sep. 2015,7.7,Percy reveals a bit of his past after Vox Machina is invited to a feast celebrating the arrival of Lord and Lady Briarwood.
+1,25,Crimson Diplomacy,24 Sep. 2015,7.9,The team desperately tries to rescue Vax from Lord and Lady Briarwood. A mysterious tiefling wizard reveals herself and jumps to Vox Machina's aid.
+1,26,Consequences and Cows,1 Oct. 2015,8.0,"Vox Machina's actions following their battle with the Briarwoods causes Uriel to question whether they are the heroes they claim to be. Removed from the city council, they attempt to repair their reputation by aiding a nearby cattle farm."
+1,27,The Path to Whitestone,8 Oct. 2015,7.5,"Vox Machina defends their witness from both Percy and invisible assassins. When Seeker Asum suggests that Uriel might be under the Briarwood's control, and that a fair trial may not be possible, the team decides to travel to Whitestone."
+1,28,The Sun Tree,15 Oct. 2015,7.9,Vox Machina battles a serpentine Behir. The team slips into Whitestone and discovers a horrific message waiting for them at the Sun Tree.
+1,29,Whispers,22 Oct. 2015,7.9,Vox Machina attacks the cruel Sir Kerrion Stonefell in an effort to inspire the citizens of Whitestone to rebel against the Briarwoods.
+1,30,Stoke the Flames,29 Oct. 2015,8.1,Vox Machina reaches out to the Whitestone resistance. Percy learns more about the fate of his sister Cassandra.
+1,31,Gunpowder Plot,5 Nov. 2015,8.0,Vox Machina continues to move against the new nobles. Scanlan creates a ballad worthy diversion.
+1,32,Against the Tide of Bone,12 Nov. 2015,8.0,"With the rebellion in full swing, the Briarwoods send a seemingly endless army of undead to quell the unrest. A familiar looking avatar of Sarenrae arrives to aid the party."
+1,33,Reunions,19 Nov. 2015,8.1,Vox Machina sneaks into Castle Whitestone in search of the Briarwoods and Cassandra De Rolo. The team recruits an unlikely ally.
+1,34,Race to the Ziggurat,3 Dec. 2015,8.5,Brother fights sister as Vox Machina battles the Briarwoods deep underneath Whitestone.
+1,35,Denouement,10 Dec. 2015,8.5,Vox Machina helps Percy face his personal demons.
+1,36,Winter's Crest in Whitestone,17 Dec. 2015,8.5,"The Briarwoods defeated, Vox Machina takes some time off from rebuilding Whitestone to participate in the Winter's Crest festival."
+1,37,A Musician's Nostalgia,7 Jan. 2016,7.8,"Vox Machina presents themselves to Emperor Uriel, and then heads into the city to capture Riskel Daxio. Scanlan bumps into his old band, Dr. Dranzel's Spectacular Traveling Troupe."
+1,38,Echoes of the Past,14 Jan. 2016,8.1,Kaylie reveals her intent to the unsuspecting Scanlan. Vox Machina agrees to investigate the former residence of General Krieg.
+1,39,Omens,21 Jan. 2016,8.2,Vox Machina tangles with some monstrous worms while investigating Brimscythe's cavern. An evil artifact speaks to Grog. Emperor Uriel gives an important announcement in the Cloud Top District.
+1,40,Desperate Measures,28 Jan. 2016,8.0,"After fending off one of the attacking dragons, the party takes refuge in their keep, and a potentially dangerous solution to the dragon problem causes a rift between the members of Vox Machina."
+1,41,In Ruins,4 Feb. 2016,8.2,"Vox Machina ventures into Emon in search of Gilmore, Uriel, and any surviving allies within the city's ruined walls. Along the way they make a new ally, Garthok of the Clasp."
+1,42,Dangerous Dealings,11 Feb. 2016,7.9,"Vox Machina tries to secure an alliance with the Clasp. Following their meeting, the adventurers make a difficult decision regarding their home."
+1,43,Return to Vasselheim,18 Feb. 2016,8.2,"Seeking aid against Thordak, Vox Machina visits the leaders of Vasselheim. Allies rally to the team, and lore is acquired as they visit the Slayer's Take, the Platinum Sanctuary, and the Temple of Kord."
+1,44,The Sunken Tomb,10 Mar. 2016,8.2,Vox Machina finds itself deep within a lost shrine to the Raven Queen in search of an artifact that may help them defeat the Chroma conclave. But more danger lurks within the shrine than they could possibly be prepared for.
+1,45,Those Who Walk Away...,17 Mar. 2016,8.0,"An exhausted Vox Machina spends some time hashing out their pent up frustrations and examining their spoils of victory. They then journey to the Fire Ashari, hoping to find survivors of the red dragon's escape from the fire plane."
+1,46,Cindergrove Revisited,24 Mar. 2016,8.3,Vox Machina joins forces with an eccentric candlemaker to help seal the rift between their world and the fire plane.
+1,47,The Family Business,31 Mar. 2016,8.2,"Vox Machina return to Westruun, and learn that an unexpected nemesis has taken up residence inside the city."
+1,48,Into the Frostweald,7 Apr. 2016,8.2,"To find out more about the Vestiges, Vox Machina travel to the Frostweald to find the Sphinx's lair, but encounter familiar dangers along the way."
+1,49,A Name Is Earned,14 Apr. 2016,8.4,"To obtain important information about the Vestiges, Vox Machina must pass a series of deadly tests and earn the respect of the Sphinx."
+1,50,Best Laid Plans...,21 Apr. 2016,8.4,"In their 50th episode, Vox Machina creates a plan to infiltrate Westruun to retrieve the Vestige within and Grog learns the true strength of Craven Edge."
+1,51,Test of Pride,28 Apr. 2016,8.2,"Scanlan deals with a surprising reunion. Meanwhile, the rest of Vox Machina push further into Westruun in order for Grog to challenge his Uncle Kevdak to single combat."
+1,52,The Kill Box,5 May 2016,8.5,"When Grog struggles to beat Kevdak by himself he calls the rest of the team to action, sparking a ferocious and bloody battle."
+1,53,"At Dawn, We Plan!",12 May 2016,8.3,"Vox Machina reach an uneasy truce with former enemies. They use this moment to look for Pike's great-grandfather Wilhand. Tasked with finding an artifact for Quall, they go to his former workshop. Plans are made to make a plan, at dawn."
+1,54,In the Belly of the Beast,19 May 2016,8.3,"Vox Machina start to put a plan together to fight the ancient black dragon. Taking stock of their surroundings, Percy tries to cobble together a dragon trap, while Vax, Vex, and Scanlan discuss a last ditch plan for Scanlan to give the dragon intestinal discomfort. Meanwhile, Grog finds an old friend."
+1,55,Umbrasyl,2 Jun. 2016,8.3,"With Scanlan, Vax and Grog kidnapped by Umbrasyl as he flees the battle, the rest of Vox Machina desperately try to keep up and take down their first dragon of the Chroma Conclave."
+1,56,Hope,9 Jun. 2016,8.3,"Fearing retribution from the Chroma Conclave for killing Umbrasyl, Vox Machina helps the surviving villagers of Westruun to build an underground bunker."
+1,57,Duskmeadow,16 Jun. 2016,7.9,"With Westruun now liberated, Vox Machina makes a short trip to Vasselheim for Vax to keep his promise to the Raven Queen. Once concluded, they proceed to Whitestone for rest, but are they truly safe there?"
+1,58,A Cycle of Vengeance,23 Jun. 2016,7.9,"When Gilmore is revealed to be Hotis in disguise, Vox Machina attempt to fend off the Rakshasa's assassination attempt."
+1,59,The Feywild,7 Jul. 2016,7.6,"Vox Machina travel to the mystical plane of the Feywild in search of another Vestige. When they meet a potential guide, Vex and Vax agree to a deal that they soon regret."
+1,60,Heredity and Hats,14 Jul. 2016,8.0,"To fulfil their pact with the satyr Garmelie so that he will guide them to the Shademirk Bog, Vox Machina travel to the plane-shifted city of Syngorn to meet with Vex and Vax's father."
+1,61,Denizens of the Moonbrush,28 Jul. 2016,7.6,"Garmelie guides Vox Machina through a dark forest known as the Moonbrush, but the group soon finds trouble with its inhabitants."
+1,62,Uninviting Waters,4 Aug. 2016,7.7,"Now free of the Moonbrush, Vox Machina continues towards the Shademirk Bog, but the rivers of the Gilded Run surround their destination and are more dangerous than they first appear."
+1,63,The Echo Tree,11 Aug. 2016,7.8,"The group arrives at the hollow tree, only to find the bow's previous owner still lives. Will Vex be willing to accept his offer for it though?"
+1,64,The Frigid Doom,18 Aug. 2016,7.8,Vox Machina continue their quest to rid the world of the Chroma Conclave by scouting the lair of the White Dragon in Draconia. There they are forced to bid a final farewell to a brave old friend.
+1,65,The Streets of Ank'Harel,25 Aug. 2016,7.7,"With a two week time limit in place for their return to Draconia, Vox Machina make their way to the desert city of Ank'Harel to find another vestige to further even their odds against the dragons."
+1,66,A Traveler's Gamble,8 Sep. 2016,8.1,"Vox Machina must fight against a powerful opponent to prove their worth to a potential new ally. Afterwards, they head to the casino for Scanlan to complete his spice deal."
+1,67,The Chase to Glintshore,15 Sep. 2016,8.5,Vox Machina make preparations to set out and track down Dr. Ripley after determining that she has been hunting the remaining vestiges for herself.
+1,68,Cloak and Dagger,22 Sep. 2016,8.6,"After tracking Dr. Ripley and her team to the centre of the island, Vox Machina decides to strike. As the fight drags on, some of them begin to fear that not all of them will walk away from this battle unscathed..."
+1,69,Passed Through Fire,29 Sep. 2016,8.5,"After defeating Dr. Ripley, Vox Machina rush to Whitestone for Pike to resurrect Percy, but Orthax interrupts the ritual. Events continue to turn from bad to worse as the Whitestone spy finally emerges."
+1,70,Trust,6 Oct. 2016,8.4,"Raishan attempts to pursuade Vox Machina to help her take down Thordak, but they are understandably distrustful. After a tenuous agreement is met, the group undertakes thorough research into a fiend as they develop a plan to kill Vorugal."
+1,71,Vorugal,13 Oct. 2016,8.6,"Vox Machina, accompanied by Lady Kima, return to Draconia to enact their daring plan to take down Vorugal."
+1,72,The Elephant in the Room,20 Oct. 2016,8.5,"With Vorugal now slain, Vox Machina set about gathering money and items from his treasure horde. Keyleth tests her new Vestige, Grog gifts Kima with a new weapon and Vex finds a quiet moment to open up to Percy."
+1,73,The Coming Storm,27 Oct. 2016,8.5,"Vox Machina meet with Allura, Cassandra and the rest of the council to create a plan to finally retake Emon from Thordak. Vax tries to make amends with Gilmore and Kynan in case he doesn't return."
+1,74,Path of Brass,3 Nov. 2016,8.5,"Vox Machina travel to Fort Daxio and help the remaining soldiers to prepare for Thordak's attack. Once complete, and with time to spare as they wait for reinforcements, they continue on to the fire plane to search for the final Vestige."
+1,75,Where the Cards Fall,10 Nov. 2016,8.5,"Having befriended two of the fire plane's denizens and enlisting their help, Vox Machina now need to deal with the fire giants to get the vestige. In the end, their fate comes down to the luck of the draw."
+1,76,Brawl in the Arches,17 Nov. 2016,8.2,"After Scanlan lost the card game to the Fire Giant, Juuraiel, they have now become her slaves. To win their freedom, as well as the Vestige, they must now kill a pit fiend who holds a high position within the city."
+1,77,Clash at Daxio,1 Dec. 2016,8.4,"Having returned from the Fire Plane to find Fort Daxio under siege by Thordak's forces, Vox Machina plunge into the fray in the hopes of retaking their rally point."
+1,78,The Siege of Emon,8 Dec. 2016,8.3,"Vox Machina, with the help of Zahra and Kashaw, make their final preparations and create a battle plan before beginning the siege of Emon."
+1,79,Thordak,15 Dec. 2016,8.3,"After months of questing for the powerful Vestiges of Divergence and hunting down the other members of the Chroma Conclave, Vox Machina finally battle with Thordak, the Cinder King atop the ruins of Emon's cloudtop district."
+1,80,Raishan,5 Jan. 2017,8.3,"Vox Machina fight Raishan in Thordak's lair, but with their wounds still fresh from their previous battle, are they strong enough to stop her?"
+1,81,What Lies Beneath the Surface,12 Jan. 2017,8.1,"After Raishan absconded with two of the eggs and Thordak's body, Vox Machina return to Whitestone to scry and research her location with the assistance of Allura and Kerrek."
+1,82,Deadly Echoes,19 Jan. 2017,8.1,"Vox Machina travel to the island where Raishan is hiding, but to reach her they must navigate the deadly ancient traps left by the necromancer who once called this place home."
+1,83,The Deciever's Stand,26 Jan. 2017,8.4,"Vox Machina find and attack Raishan, who is attempting a dangerous ritual with Thordak's body."
+1,84,Loose Ends,2 Feb. 2017,8.6,"Vox Machina attempt a resurrection spell on Scanlan with his daughter's help. Following their efforts, they then transport themselves to Vasselheim to keep their promise to Senokir."
+1,85,A Bard's Lament,9 Feb. 2017,8.5,"Grog must fight against Earthbreaker Groon in a rematch to show how much he has learned since their last encounter. Upon their return to Whitestone, Scanlan has woken from his coma, but he has bad news for the rest of the group."
+1,86,Daring Days,16 Feb. 2017,7.6,"As they lament over the loss of Scanlan, Vox Machina continue to finish off their remaining side-quests whilst learning more about their new companion, Taryon Darrington."
+1,87,Onward to Vesrah,23 Feb. 2017,7.7,"Vox Machina board a ship to take them to the Water Ashari for Keyleth to complete her Auramente, but their route is known to contain many dangers."
+1,88,Tangled Depths,2 Mar. 2017,7.3,Keyleth leads Vox Machina into the depths of the ocean to cross over into the water plane and recover three load-stones from a kraken.
+1,89,Curious Tides,9 Mar. 2017,7.7,"Pike is summoned in her astral form to revive Vax after a battle with the kraken goes sour. During the ritual, Vex makes a desperate deal with the Raven Queen for her brother's life."
+1,90,Voice of the Tempest,16 Mar. 2017,7.7,"After a nights rest at Grey Skull Keep, Vox Machina set out to Vasselheim to research the Nine Hells and Orcus. With their work done, the ladies buy new gowns for Keyleth's Auramente ceremony."
+1,91,Vox Machina Go to Hell,23 Mar. 2017,7.7,"Vox Machina travel to the city of Dis, located in the second layer of the Hells to search for and kill Hotis before he has regenerated enough to attempt to assassinate Vax and Pike."
+1,92,Deals in the Dark,30 Mar. 2017,7.8,"After being offered a deal for assistance with entering the prison in which Hotis is being held in exchange for killing a pit fiend, Vox Machina try to decide whether it is truly their best option."
+1,93,Bats Out of Hell,6 Apr. 2017,7.7,"After their battle with the pit fiend, Vox Machina, with their new ally Tova, are taken to the labyrinthine Bastion of Flesh where they must navigate their way to Hotis' cell and kill him once and for all."
+1,94,Jugs and Rods,13 Apr. 2017,7.8,"Taryon, with help and encouragement from the others, attempts to flirt with the local barmaid. The next day, Vex must prepare herself and set out on the Grey Hunt."
+1,95,One Year Later...,27 Apr. 2017,7.7,"Having completed all of their quests, Vox Machina split up to attend to more personal matters over the course of a year."
+1,96,Family Matters,4 May 2017,7.4,Pike's Uncle warns her of a family curse that may be about to affect her. To save her and avoid this fate they must perform a potentially dangerous ritual.
+1,97,"Taryon, My Wayward Son",11 May 2017,8.2,"After Taryon is kidnapped during the night by a Drow, the rest of Vox Machina follow his trail to Wildmount in an attempt to rescue him."
+1,98,The Mines of the Many,18 May 2017,7.8,Taryon strikes a deal with his father's partners to erase the debt his family owes them by offering Vox Machina's services to clear out an infested mine.
+1,99,Masquerade,1 Jun. 2017,7.9,"As Vox Machina explore the market in Whitestone, a Half-Orc named Lionel approaches them with a message from ""The Meat Man"" - an alter ego of their old friend Scanlan Shorthalt."
+1,100,Unfinished Business,8 Jun. 2017,8.2,"Vox Machina follow Scanlan and Lionel to the second ziggurat, but are shocked to find one of their long-defeated enemies still lives."
+1,101,Thar Amphala,15 Jun. 2017,7.8,Vox Machina travel to the Shadowfell in an attempt to stop Vecna from being resurrected by Delilah Briarwood.
+1,102,Race to the Tower,22 Jun. 2017,8.1,All hell breaks loose as Vox Machina race to stop the return of Vecna.
+1,103,The Fate-Touched,29 Jun. 2017,7.9,"Vox Machina regroup after their devastating defeat at the hands of Vecna, all while Vax's soul is tested by the Matron of Ravens."
+1,104,Elysium,6 Jul. 2017,8.2,"We journey to Elysium, where Vox Machina must prove their worth in the eyes of the gods."
+1,105,The Fear of Isolation,13 Jul. 2017,8.4,Vox Machina travel to the pools of Wittebak where they meet a lonely stranger residing in a strange old house.
+1,106,The Endless Atheneeum,27 Jul. 2017,8.3,Vox Machina race against time to earn the blessing of the Goddess of Knowledge while Vecna continues to gain power.
+1,107,Scaldseat,3 Aug. 2017,8.2,Vox Machina descend into the heart of an undersea volcano to find the forge of the gods.
+1,108,The Core Anvil,10 Aug. 2017,8.2,"Upon finding the Core Anvil and the forge guardian that protects it, Vox Machina attempt to create the divine trammels that will aid in their fight against Vecna."
+1,109,The Ominous March,18 Aug. 2017,8.4,Live from Gencon: Vox Machina returns to Vasselheim to prepare for the coming of Vecna.
+1,110,The Climb Within,24 Aug. 2017,8.3,"Vox Machina find treasures, horrors, and mysteries as they make their way through the body of an undead primordial."
+1,111,Shadows of Thomara,14 Sep. 2017,8.3,"Vox Machina make their way through the cursed caverns of the undead dwarven city of Thomara, hoping their presence won't be discovered."
+1,112,Dark Dealings,21 Sep. 2017,8.6,Vox Machina search for a powerful artifact that could help swing the tide in their favor.
+1,113,The Final Ascent,28 Sep. 2017,8.4,"Vox Machina, having made their final preparations, make their way to the top of the tower of Entropis."
+1,114,"Vecna, the Ascended",5 Oct. 2017,8.7,The final battle against Vecna has come. Vox Machina with the help of allies must face against the newly made god.
+1,115,The Chapter Closes,12 Oct. 2017,8.4,"On the final episode of Vox Machina's campaign, victory is celebrated, and all debts are paid."
+2,1,Curious Beginnings,11 Jan. 2018,8.4,A new adventure begins! Seven strangers are thrust together to defeat an undead attack during a circus show.
+2,2,A Show of Scrutiny,18 Jan. 2018,8.4,"Following the attack on the circus, most of the party is under suspicion. To clear their names, they must sneak through the town to gather more information about the man who had initially transformed in hopes of finding a lead to the real culprits."
+2,3,The Midnight Chase,25 Jan. 2018,8.3,"After defeating the zombified guards, the group try to dispose of the bodies in a way that won't draw more suspicion upon them. As the devil-toad had escaped with Toya during the battle, they must now track them down to prove their innocence."
+2,4,Disparate Pieces,1 Feb. 2018,8.2,"Injured but victorious, the party takes the Devil-Toad back to Trostenwald and attempt to clear their names and deal with the fallout of the affair. They discuss their pasts and plan for the future."
+2,5,The Open Road,8 Feb. 2018,8.2,"The group are finally free to leave Trostenwald and begin traveling to the city of Zadash, but they find their journey interrupted by trouble in the next village."
+2,6,The Howling Mines,15 Feb. 2018,8.3,"The village of Alfield has recently been under attack by repeated Gnoll raids. Aggreeing to help the Watchmaster, the party venture into the nearby mines to rescue the prisoners being held there."
+2,7,Hush,22 Feb. 2018,8.2,"The party continue to make their way through the mines, searching for any surviving prisoners of the Gnolls. During their mission, they come across a mysterious man called Shakäste, who has also come to help the villagers. Together, they push forward to uncover the source of the Gnoll's recent agression."
+2,8,The Gates of Zadash,1 Mar. 2018,8.3,"After giving Watchmaster Bryce their new group name of The Mighty Nein, the party set off for Zadash. Following a small altercation with a group of bandits, they finally arrive at their destination and begin to explore the city along with an odd tour guide."
+2,9,Steam and Conversation,8 Mar. 2018,8.2,"The Mighty Nein continue to explore Zadash and, upon convening in a local sauna, run into an unexpected familiar face."
+2,10,Waste and Webs,15 Mar. 2018,7.9,The Mighty Nein accept a contract from the Crownsguard to kill a monster that has appeared in the city and venture into the sewers beneath the streets of Zadash to find their bounty.
+2,11,Zemnian Nights,22 Mar. 2018,8.1,The Mighty Nein find themselves drawn into a conspiracy by the Knights of Requital to frame the corrupt High Richter and Lord Sutan in order to remove then from power.
+2,12,Midnight Espionage,29 Mar. 2018,8.3,The Mighty Nein and Ulog begin their mission to incriminate the High Richter and Lord Sutan by sneaking into their houses and planting evidence tying them to treasonous acts.
+2,13,Lost & Found,5 Apr. 2018,8.2,"The Drow's attack on the Zauber Spire has thrown Zadash into chaos. With the guards all now on high alert, the Mighty Nein need to escape the Tri-Spire before their own illicit deeds are discovered."
+2,14,Fleeting Memories,12 Apr. 2018,8.2,"With Zadash on lock-down following the attack, the Mighty Nein seek out the aid of the Gentleman, a mysterious and powerful crime boss, to help them smuggle Horris out of the city."
+2,15,Where the River Goes,19 Apr. 2018,8.3,The Mighty Nein are asked by the Gentleman for their help in clearing out an ancient haunted ruin located in the sewers beneath Zadash in exchange for his aid in smuggling Horris to safety.
+2,16,A Favor in Kind,26 Apr. 2018,8.3,"After their successful raid on the ruins, The Mighty Nein return to the Gentleman to present the recovered loot, whilst keeping the best of it for themselves."
+2,17,Harvest Close,3 May 2018,8.5,"Having survived a string of stressful events, the Mighty Nein decide to unwind at the Harvest Close festival, playing various games and inevitably causing mischief."
+2,18,Whispers of War,10 May 2018,8.3,"After winning their fight in the Victory Pit, The Mighty Nein attempt to tie up any loose ends in order to leave Zadash before they get swept up in the impending war. Caleb accepts Beau's proposal to take him to the Library of the Cobalt Soul and tells her and Nott his real reason for fearing fire."
+2,19,The Gentleman's Path,17 May 2018,8.3,"Before they are able to leave Zadash, the Gentleman invites The Mighty Nein to a meeting to request their aid with some issues plaguing his business."
+2,20,Labenda Awaits,24 May 2018,8.1,"The Mighty Nein continue their journey to Labenda, running into an old Orc tanner, Crocodiles and a small half-bird girl called Kiri."
+2,21,Stalker in the Swamp,31 May 2018,8.3,"Having met up with the Gentleman's hireling, The Mighty Nein journey deep into the swamp with their guide towards the safehouse. As they near their destination, they realise that they are not alone."
+2,22,Lost Treasures,7 Jun. 2018,8.1,"After narrowly surviving the troll attack and losing their guide, The Mighty Nein focus on the task of clearing out the safehouse of Merrow, twisted and dangerous mer-folk."
+2,23,"Have Bird, Will Travel",14 Jun. 2018,8.1,"Voice actor Matthew Mercer leads a group of fellow voice actors on epic Dungeons & Dragons campaigns. These familiar voices bring the audience into the full experience of D&D, allowing imaginations to soar as the characters embark on adventures. This is Critical Role!"
+2,24,The Hour of Honor,21 Jun. 2018,8.1,"The Mighty Nein explore the town of Hupperdook, and find much more intrigue than they bargained for..."
+2,25,Divergent Paths,28 Jun. 2018,8.2,"The Mighty Nein strike a deal to fight the automaton in the depths of Hupperdook's prison for the warden in exchange for the release of the children's parents. Following the fight, the group find a safe place to say farewell to Kiri and continue on their way to Shady Creek Run."
+2,26,Found & Lost,12 Jul. 2018,8.3,"Mollymauk, Beau, Caleb & Nott wake to find the rest of their party has been kidnapped in the middle of the night. Their only lead is an aggravated female Dwarf who is also tracking the bandit group."
+2,27,Converging Fury,19 Jul. 2018,8.2,"The group are left in shock by Mollymauk's death at the hands of Lorenzo, leader of the Iron Shepherds mercenary group. After burying his body and paying their respects, they pursue the Iron Shepherds to Shady Creek Run, both for revenge and to save their still captured friends."
+2,28,Within the Nest,26 Jul. 2018,8.1,"The remaining members of The Mighty Nein, along with their two allies, Keg & Nila, learn that the Iron Shepherds are the same group that the Gentleman contracted them to handle. Knowing how outmatched they were last time, they seek the aid of a local cleric to help them infiltrate Lorenzo's keep, the Sour Nest."
+2,29,The Stalking Nightmare,3 Aug. 2018,8.2,"After Nila evacuates her family, the remaining members of the party continue to push into the Iron Shepherd's fortress. As things seem dire, an unlikely reunion with an old ally brings them renewed hope."
+2,30,The Journey Home,9 Aug. 2018,8.2,The Mighty Nein reunited report their success to Ophelia and travel with her back to Zadash. The troupe stops at Molly's grave to pay their respects. Yasha awakens and storms off. The others continue and meet once again with the Gentleman.
+2,31,Commerce & Chaos,16 Aug. 2018,8.1,"The Mighty Nein takes some ""down time"" upon returning to Zadash. After a group shopping trip to Pumat's shop, Jester tries to please The Traveller by defacing the god Bahamut's statue and Fjord rides South towards the Menagerie Coast to search for information about a former shipmate."
+2,32,Beyond the Boundaries,23 Aug. 2018,7.9,"The Mighty Nein travel to the Empire's Southern border to cross into Fjord and Jester's homeland, the Menagerie Coast."
+2,33,The Ruby and the Sapphire,6 Sep. 2018,7.9,"Jester takes her friends to meet her mother, the Ruby of the Sea, in Nicodranas. As she recalls her adventures to her mother, the secret of Jester's father comes to light."
+2,34,Encroaching Waters,13 Sep. 2018,8.0,"The Mighty Nein continue to track down Algar in order to force him to stop harrasing Jester's mother. During their investigations, a Tortle named Orly Skiffback also gives them information about the man Fjord has been searching for; Marius LePual."
+2,35,Dockside Diplomacy,20 Sep. 2018,8.0,"Fearing of repercussions for their actions in the sewers, the Mighty Nein do their best to cover up their involvement by framing Algar. Seemingly now in the clear, they head to the docks to find Marius LePual for answers about Fjord's stone, but things quickly spiral out of control."
+2,36,"O Captain, Who's Captain?",27 Sep. 2018,8.1,"Having accidentally stolen a ship and kidnapping Marius, the group now face the choice of trying to sail it by themselves, despite Fjord being the only person with any experience, or sneaking past the alerted city guards to attempt to discreetly hire a crew."
+2,37,Dangerous Liaisons,4 Oct. 2018,7.8,"The crew of The Mistake are cornered by the pirate Captain Avantika, who offers them the choice of joining her crew or perishing."
+2,38,Welcome to the Jungle,11 Oct. 2018,8.1,"The Mighty Nein join Avantika's expedition to find the temple to Uk'otoa, having learned that she also has an eye bestowed on her like Fjord."
+2,39,Temple of the False Serpent,18 Oct. 2018,8.0,"The Mighty Nein and Avantika delve into Uk'otoa's temple, eliminating the dangers and traps in their way to find the secret at its heart."
+2,40,Dubious Pursuits,1 Nov. 2018,7.9,"The group complete their mission in the temple, but events force them to flee back to the ships for safety."
+2,41,A Pirate's Life for Me,8 Nov. 2018,7.7,"With their mission to the island mostly successful, the Squall Eater and The Mistake head towards the pirate city of Darktow for repairs as the Mighty Nein begin to learn new sailing skills."
+2,42,A Hole in a Plan,15 Nov. 2018,7.9,"The Mighty Nein explore the pirate island of Darktow, and attempt to undermine Avantika..."
+2,43,In Hot Water,29 Nov. 2018,8.0,"The Mighty Nein face a showdown with Avantika and her crew in Darktow, and the possible wrath of the Plank King for breaking pirate law..."
+2,44,The Diver's Grave,6 Dec. 2018,7.8,The Mighty Nein walk the ocean floor looking for Fjords ship wreck and discover more than they were looking for.
+2,45,The Stowaway,13 Dec. 2018,8.4,"Back on the Squall Eater, Nott stumbles across a stowaway below deck. It appears that a young girl has ran on the ship to hide with a very unique item. The crew agrees to take her to their next stop to repair the ship."
+2,46,A Storm of Memories,20 Dec. 2018,7.7,"After the adventures in happy fun ball, the Mighty Nein get a good rest. They wake up still in port and head out to grab a good breakfast, they stock up and head back to the ball eater. After leaving port a storm begins."
+2,47,The Second Seal,10 Jan. 2019,8.1,The Mighty Nein continue exploring the sea floor for the site of the second seal to Uk'otoa's prison.
+2,48,Homeward Bound,17 Jan. 2019,8.3,"The Mighty Nein sail back to Nicodranas for a short recovery period before returning to the Empire and heading to the site of a recent crick attack and Nott's hometown, Felderwin."
+2,49,A Game of Names,24 Jan. 2019,8.1,"The Mighty Nein investigates the town to find out what exactly happened to the missing man and who really has him. Eventually they believe that the Crik have him, and have taken him into the tunnels under the mountain range."
+2,50,The Endless Burrows,31 Jan. 2019,8.0,"The group decides the next best action is to travel the tunnel. They come across a few monsters and met a guide, Spurt. Eventually they wind up in a touch and go battle with some really large enemies."
+2,51,Xhorhas,14 Feb. 2019,7.9,"The Mighty Nein travel the tunnel to its natural end. Along the way they negotiated with kobalds and ran from giants. They exit to a group of Rangers and Scouts, the Muck Men. There is another battle and the Nein heads to Xhorhas."
+2,52,Feral Business,21 Feb. 2019,8.0,The Nein make a stop for mounts in Beast Town. They end up exterminating an infestation in the basement of the mount shop. The get distracted by side quests.
+2,53,Cornered,28 Feb. 2019,7.5,
+2,54,Well Beneath,7 Mar. 2019,7.5,
+2,55,Duplicity,14 Mar. 2019,7.7,
+2,56,The Favor,21 Mar. 2019,7.7,
+2,57,In Love and War,4 Apr. 2019,7.5,
+2,58,Wood and Steel,11 Apr. 2019,7.4,"The Nein discuss the information Caleb and Beau got from the library and decide to set out on a job that was offered. There is a camp being intimidated by giants outside of town, and they are about to handle the situation."
+2,59,Perspective,18 Apr. 2019,7.8,
+2,60,A Turtle By Any Other Name,25 Apr. 2019,8.1,
+2,61,Agreements,2 May 2019,8.5,
+2,62,Domestic Respite,9 May 2019,8.3,
+2,63,Intervention,16 May 2019,7.4,
+2,64,A Dangerous Chase,23 May 2019,7.2,
+2,65,Chases and Trees,30 May 2019,7.5,
+2,66,Beneath Bazzoxan,6 Jun. 2019,7.5,
+2,67,Beyond the Eyes of Angels,13 Jun. 2019,7.5,
+2,68,Reflections,20 Jun. 2019,8.1,
+2,69,The King's Cage,27 Jun. 2019,7.9,
+2,70,Causatum,11 Jul. 2019,7.8,
+2,71,Family Gathering,18 Jul. 2019,7.2,
+2,72,Clay and Dust,25 Jul. 2019,8.3,
+2,73,Uthodurn,2 Aug. 2019,8.4,
+2,74,Manifold Morals,8 Aug. 2019,7.1,
+2,75,Rime and Reason,15 Aug. 2019,7.4,
+2,76,Refjorged,22 Aug. 2019,8.0,
+2,77,A Tangled Web,5 Sep. 2019,7.7,
+2,78,Between the Lines,19 Sep. 2019,7.6,
+2,79,Through the Trees,26 Sep. 2019,7.4,
+2,80,The Folding Halls,10 Oct. 2019,7.5,
+2,81,From Door to Door,17 Oct. 2019,8.0,
+2,82,The Beat of the Permaheart,24 Oct. 2019,8.2,
+2,83,Dark Bargains,31 Oct. 2019,8.1,
+2,84,Titles and Tattoos,7 Nov. 2019,7.8,
+2,85,The Threads Converge,14 Nov. 2019,8.0,
+2,86,The Cathedral,21 Nov. 2019,8.2,
+2,87,Punishment and Politics,8 Dec. 2019,7.9,
+2,88,Unwanted Reunions,12 Dec. 2019,7.2,
+2,89,Lingering Wounds,19 Dec. 2019,7.4,
+2,90,Bathhouses and Bastions,9 Jan. 2020,7.7,
+2,91,Stone to Clay,16 Jan. 2020,7.7,
+2,92,Home Is Where the Heart Is,23 Jan. 2020,8.1,
+2,93,Misery Loves Company,30 Jan. 2020,8.3,
+2,94,With Great Power...,6 Feb. 2020,7.4,
+2,95,Blessing In Disguise,13 Feb. 2020,7.3,
+2,96,Family Shatters,20 Feb. 2020,7.6,"The Mighty Nein, having arrived at the oasis menagerie, must now protect both themselves and the fragile garden denizens from the danger barreling toward them."
+2,97,The Fancy and the Fooled,27 Feb. 2020,7.9,
+2,98,Dark Waters,5 Mar. 2020,7.6,"The Mighty Nein reset after their intense interactions at the party to prepare for their voyage to the peace talks, but nothing can prepare them for the danger that awaits on the high seas."
+2,99,"High Seas, High Stakes",12 Mar. 2020,7.6,"Slowly recovering from the midnight attack, the Mighty Nein continue their course for the long-awaited peace talks between warring nations."
+2,100,Hunted at Sea,2 Jul. 2020,7.0,
+2,101,"Mysteries, Memories, and Music",9 Jul. 2020,7.3,
+2,102,"Ghosts, Dinosaurs, and Stuff",16 Jun. 2020,7.3,
+2,103,Maritime Mysteries,23 Jul. 2020,7.0,
+2,104,The Ruined Sliver,30 Jul. 2020,6.6,
+2,105,Rumble at Rumblecusp,7 Aug. 2020,7.2,
+2,106,A Fog Lifted,13 Aug. 2020,6.5,
+2,107,Devoutness and Dicks,27 Aug. 2020,6.6,
+2,108,Traveler Con,3 Sep. 2020,5.9,
+2,109,Frigid Propositions,10 Sep. 2020,7.2,
+2,110,Dinner with the Devil,17 Sep. 2020,6.5,
+2,111,New Homes and Old Friends,24 Sep. 2020,7.0,
+2,112,The Chase Begins,15 Oct. 2020,0.0,
+2,113,A Heart Grown Cold,22 Oct. 2020,0.0,
+3,9,Cinderbrush: A Monsterhearts Story,14 Feb. 2020,7.6,
+3,14,DOOM Eternal One-Shot,,,
+4,8,Q&A and Battle Royale,25 Feb. 2016,8.0,The gang hold a Q&A to answer questions from fans before engaging in a four-way free for all.
+4,15,To the Poop,18 Apr. 2016,8.4,A one-shot Pathfinder game where the players take on the roles of goblins hunting down a valuable trinket.
+4,21,Q&A and Battle Royale!,26 May 2016,8.2,
+5,3,Critical Role EXTRA : Liam's Quest!,30 Jun. 2016,7.8,"With Matt and Marisha out of town, Liam O'Brien takes the helm as the DM. What starts as a seemingly normal day in the lives of voice actors Travis, Laura, Taliesin, and Sam takes a turn for the weird...In a series of events that need to be seen but cannot truly be explained, watch as Liam takes his friends through the strangest voice over job of their lives. Special appearance as NPC's by Ashley Johnson, Matt Mercer, Marisha Ray, and a surprise guest."
+5,11,Critical Role Extra - The Return of Liam!,1 Sep. 2016,8.4,"Set before the Chroma Conclave destroyed Emon, four members of The Clasp and their captive attempt to pull off a dangerous heist. But when each of them have their own hidden motives, who can they truly trust?"
+6,10,Liam's Quest: Full Circle,20 Apr. 2017,7.6,"Liam takes control once again, as we follow our cast through the darkest timeline."
+7,5,Battle Royale One Shot,25 May 2017,8.0,"Vex, Keyleth, Taryon, Percy and Grog battle to the death in an arena."
+7,18,Bar Room Blitz,31 Aug. 2017,7.9,"In a bustling tavern nestled on the outskirts of the winter worn village of Jorenn, an unlikely collection of misfits find themselves swept up in a bar room brawl for the ages."
+8,1,Thursday by Night,19 Oct. 2017,7.4,"Taliesin Jaffe leads the cast of Critical Role through a game of Vampire: The Masquerade, in a dark and twisted version of the world they know."
+8,2,Thursday by Night Part 2,26 Oct. 2017,7.6,
+8,3,Grog's One Shot,2 Nov. 2017,8.0,"As Travis Willingham DMs for the evening, Grog DMs for his fellow members of Vox Machina. As they go through the adventures of drinking, mead retrieving, dungeon exploring, and of course a T-Rex."
+8,4,Trinket's Honey Heist,9 Nov. 2017,7.6,
+8,5,Once Upon a Fairytale Cruise,16 Nov. 2017,8.1,
+8,6,"Kobolds, Catacombs and Dragons (Oh My!)",30 Nov. 2017,7.7,
+8,7,Epic Level Battle Royale,7 Dec. 2017,7.9,"Voice actor Matthew Mercer leads a group of fellow voice actors on epic Dungeons & Dragons campaigns. These familiar voices bring the audience into the full experience of D&D, allowing imaginations to soar as the characters embark on adventures. This is Critical Role!"
+9,9,Cinderbrush: A Monsterhearts Story,14 Feb. 2020,7.6,
+9,14,DOOM Eternal One-Shot,,,
+10,13,Honey Heist 2: Electric Beargaloo,10 Aug. 2018,7.8,
+11,3,Song of the Lorelei,30 Aug. 2018,7.8,"Dungeon Master Liam O'Brien as he takes his guests through a werewolf adventure in Wildemount. The Lorelei siblings return home to discover their castle ransacked, their staff murdered, and their father missing."
+11,7,"Crash Pandas: Too Trashed, Too Curious",21 Sep. 2018,7.8,
+11,12,Critical Role and the Club of Misfits,25 Oct. 2018,7.8,
+11,16,Honey Heist 3: Tova's Honeys,23 Nov. 2018,6.7,
+12,3,The Night Before Critmas,21 Dec. 2018,7.7,
+12,10,The Search for Grog,22 Feb. 2019,7.7,
+13,9,Tails of Equestria One-Shot,31 May 2019,7.3,
+13,13,The Search for Bob,21 Jun. 2019,7.3,
